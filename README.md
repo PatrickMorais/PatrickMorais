@@ -1,4 +1,4 @@
-## Olá sou Patrick Morais e estudante em desenvolvimento web. Estou aprendendo Js, React.js, Python, HTML5 e CSS3
+## Olá sou Patrick Morais e estudante em desenvolvimento web. Estou aprendendo Js, Angular, React.js, Python, HTML5 e CSS3
 
 
 <a href="https://github.com/patrickmorais/github-readme-stats">
