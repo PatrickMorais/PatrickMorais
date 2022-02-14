@@ -2,11 +2,11 @@
 
 
 <a href="https://github.com/patrickmorais/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickmorais&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickmorais&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
 
 <a href="https://github.com/patrickmorais/github-readme-stats">
-  <img height"180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmorais&layout=compact&theme=tokyonight&hide_border=false"/>
+  <img  align = "center" height"180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmorais&layout=compact&theme=tokyonight&hide_border=false"/>
 </a>
 
 <div> 
